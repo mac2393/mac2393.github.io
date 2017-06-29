@@ -7,9 +7,8 @@ permalink: /publications/
 * Here is a bulleted publication point!
 * Here's another! 
 
+### Recent Publications
 
-#### Recent Publications
+### Selected Publications
 
-#### Selected Publications
-
-#### All publications
+### All publications
