@@ -3,6 +3,7 @@
 #### Coming Soon:
 - Publications
 - [Publications](https://github.com/mac2393/mac2393.github.io/tree/master/publications.md)
+- [Research](https://github.com/mac2393/mac2393.github.io/tree/master/research.md)
 - News
 - Descriptions of data and links to GitHub repositories
 - Photos
