@@ -1,5 +1,7 @@
 ### This Website has been created on GitHub Pages
 
+![headshot](https://github.com/mac2393/mac2393.github.io/blob/master/image/Headshot-MAC.png)
+
 #### Coming Soon:
 - Publications
 - [Publications](https://github.com/mac2393/mac2393.github.io/tree/master/publications.md)
