@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Mark A. Conley
+markdown: kramdown
 email: conley@psych.columbia.edu
 description: I am a PhD student in Psychology at Columbia University.  Using primarily field experiments, I manipulate the fundamental motivations which cause socially significant behaviors. 
 twitter_username: mactiv8
